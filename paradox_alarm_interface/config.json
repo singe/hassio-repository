@@ -49,5 +49,5 @@
   "host_network": true,
   "services": ["mqtt:want"],
   "map": ["share:rw"],
-  "image": "singe/pai"
+  "image": "singelet/pai"
 }
